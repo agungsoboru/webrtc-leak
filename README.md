@@ -12,3 +12,7 @@ contoh penggunaan proxy shadowshock
 contoh webrtc dengan menggunakan proxy 
 
 ![image](https://github.com/agungsoboru/webrtc-leak/blob/main/api.JPG)
+
+apa itu webrtc
+
+https://en.wikipedia.org/wiki/WebRTC
