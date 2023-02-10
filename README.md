@@ -6,7 +6,9 @@ Disable WebRTC in Chrome
 WebRTC in Google Chrome and Chromium-based web browsers is supported and enabled by default since Chrome version 23.
 
 contoh penggunaan proxy shadowshock
+
 ![image](https://github.com/agungsoboru/webrtc-leak/blob/main/ss.JPG)
 
 contoh webrtc dengan menggunakan proxy 
+
 ![image](https://github.com/agungsoboru/webrtc-leak/blob/main/api.JPG)
